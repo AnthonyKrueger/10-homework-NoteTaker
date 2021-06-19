@@ -18,6 +18,7 @@ app.get('/api/notes', (req, res) => {
         if(err) throw err;
         res.send(data);
     })
+    
 });
 
 app.post('/api/notes', (req, res) => {
