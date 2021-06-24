@@ -10,6 +10,8 @@
 
   ## Usage
   
+  [Link to Deployed Application](https://infinite-basin-08373.herokuapp.com/)
+  
   To use, simply type information into the shown textboxes. To view a note, click on it in the sidebar. To delete a note, click the delete button next to it. Click the plus button in the top right to clear the text fields and begin a new note.
   
 
